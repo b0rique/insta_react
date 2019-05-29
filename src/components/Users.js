@@ -14,17 +14,17 @@ export default function Users() {
                 alt ="prince"
                 name ="Fat Man"
                 min/>
-            <User 
+                <User 
                 src ="https://cdn.thedailymash.co.uk/wp-content/uploads/20190324205212/middle-aged-man-fat-2.jpg" 
                 alt ="prince"
                 name ="Fat Man"
                 min/>
-            <User 
+                <User 
                 src ="https://cdn.thedailymash.co.uk/wp-content/uploads/20190324205212/middle-aged-man-fat-2.jpg" 
                 alt ="prince"
                 name ="Fat Man"
                 min/>
- <User 
+                <User 
                 src ="https://cdn.thedailymash.co.uk/wp-content/uploads/20190324205212/middle-aged-man-fat-2.jpg" 
                 alt ="prince"
                 name ="Fat Man"
