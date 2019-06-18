@@ -1,0 +1,23 @@
+
+               <div className="users__block">
+               <User 
+                src ="https://cdn.thedailymash.co.uk/wp-content/uploads/20190324205212/middle-aged-man-fat-2.jpg" 
+                alt ="prince"
+                name ="Fat Man"
+                min/>
+                <User 
+                src ="https://cdn.thedailymash.co.uk/wp-content/uploads/20190324205212/middle-aged-man-fat-2.jpg" 
+                alt ="prince"
+                name ="Fat Man"
+                min/>
+                <User 
+                src ="https://cdn.thedailymash.co.uk/wp-content/uploads/20190324205212/middle-aged-man-fat-2.jpg" 
+                alt ="prince"
+                name ="Fat Man"
+                min/>
+                <User 
+                src ="https://cdn.thedailymash.co.uk/wp-content/uploads/20190324205212/middle-aged-man-fat-2.jpg" 
+                alt ="prince"
+                name ="Fat Man"
+                min/>
+               </div>
